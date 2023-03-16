@@ -1,0 +1,5 @@
+build:
+  uri: https://github.com/bstansberry/numberguess_vf2f.git
+  ref: f2f
+deploy:
+  replicas: 1
